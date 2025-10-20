@@ -30,15 +30,17 @@ This is a RESTful application for managing products, built using **Quarkus** and
 
 ### 1. Clone the repository
 
-``` open bash terminal or command promt and execute below commads
+open bash terminal or command promt and execute below commads
+```
 git clone https://github.com/AvatarMalekar/productmgmt.git
 cd productmgmt
-git checkout master 
+git checkout master ```
 
 ---
 
 🛠️  **Project Prerequisites**
 ==============================
+
 
 The following tools are required or recommended to build and run the project:
 
