@@ -33,7 +33,7 @@ This is a RESTful application for managing products, built using **Quarkus** and
 ```open bash terminal or command promt and execute below commads
 git clone https://github.com/AvatarMalekar/productmgmt.git
 cd productmgmt
-git checkout master
+git checkout master  ```
 
 ---
 🛠️  **Project Prerequisites**
