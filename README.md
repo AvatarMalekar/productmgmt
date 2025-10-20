@@ -30,12 +30,13 @@ This is a RESTful application for managing products, built using **Quarkus** and
 
 ### 1. Clone the repository
 
-```open bash terminal or command promt and execute below commads
+``` open bash terminal or command promt and execute below commads
 git clone https://github.com/AvatarMalekar/productmgmt.git
 cd productmgmt
-git checkout master  ```
+git checkout master 
 
 ---
+
 🛠️  **Project Prerequisites**
 ==============================
 
@@ -53,6 +54,8 @@ The following tools are required or recommended to build and run the project:
 
 ## ⚙️ Setup Instructions
 ==============================
+
+
 1. in Mysql create db/schema named 'productsystem'
 make sure sql is up and running application will create table automatically
 
@@ -64,6 +67,4 @@ make sure sql is up and running application will create table automatically
 -- compile will copile the project
 -- quarkus:dev will start the project or run project
 -- test will execute the tests
-
-
 
